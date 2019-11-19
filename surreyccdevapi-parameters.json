@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "ApimServiceName": {
+      "value": "surreyccdevapi"
+    },
+    "sccServiceURL": {
+      "value": "https://apidatagateway.surreycc.gov.uk:55555"
+    }
+  },
+  "resources": []
+}
